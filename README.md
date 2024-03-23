@@ -35,7 +35,7 @@ git clone https://github.com/straznikit/coffee-machine
 
 3. Run the script using Python:
 ```python
-python coffee_machine.py
+python main.py
 ```
 4. Follow the on-screen instructions to interact with the coffee machine simulator.
 
