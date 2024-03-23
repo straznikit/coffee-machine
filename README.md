@@ -29,5 +29,20 @@ Python 3.12
 1. Clone the repository to your local machine:
 
 ```python
-git clone 
+git clone https://github.com/straznikit/coffee-machine
 ```
+2. Navigate to the directory containing the script.
+
+3. Run the script using Python:
+```python
+python coffee_machine.py
+```
+4. Follow the on-screen instructions to interact with the coffee machine simulator.
+
+## Contributing:
+
+Contributions are welcome! If you have any suggestions, improvements, or feature requests, please feel free to submit a pull request or open an issue in the repository.
+
+## Acknowledgments:
+
+Special thanks to the Python community and contributors for their valuable insights and support in developing this coffee machine simulator script.
