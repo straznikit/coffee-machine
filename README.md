@@ -21,11 +21,9 @@ Resource Management: The coffee machine tracks its inventory of ingredients (e.g
 4. Enjoy your freshly brewed coffee!
 
 ## Dependencies:
-
 Python 3.12
 
 ## Getting Started:
-
 1. Clone the repository to your local machine:
 
 ```python
